@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Relaxzy Thai Massage PC 2</title>
+	<title>Relaxzy Thai Massage</title>
 	<atom:link href="https://relaxzythaimassage.es/en/feed/" rel="self" type="application/rss+xml" />
 	<link>https://relaxzythaimassage.es/en</link>
-	<description>A Relaxzy website prototype</description>
+	<description></description>
 	<lastbuilddate>Sat, 22 Jun 2024 10:31:48 +0000</lastbuilddate>
 	<language>en-GB</language>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
 	<sy:updatefrequency>
 	1	</sy:updatefrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://relaxzythaimassage.es/wp-content/uploads/2024/06/favicon512-150x150.png</url>
-	<title>Relaxzy Thai Massage PC 2</title>
+	<title>Relaxzy Thai Massage</title>
 	<link>https://relaxzythaimassage.es/en</link>
 	<width>32</width>
 	<height>32</height>
